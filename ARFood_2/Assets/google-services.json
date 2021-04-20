@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604659457881",
+    "project_id": "arfood-5f5b8",
+    "firebase_url": "https://arfood-5f5b8-default-rtdb.firebaseio.com/",
+    "storage_bucket": "arfood-5f5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604659457881:android:461f80a04d0ebcbb66b648",
+        "android_client_info": {
+          "package_name": "com.joua.arfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604659457881-6j08sc8cr14qmkdoficssrptjhjva3rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfHJevErUrw_U1pE0RSjdzHy4OORUPRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604659457881-6j08sc8cr14qmkdoficssrptjhjva3rm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604659457881-jjkfk97bj5pbmtutrnld6babgfpem617.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joua.arfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
